@@ -1,5 +1,5 @@
 # iwolfram
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lrebon/iwolfram/master)
+
 
 Jupyter Interface for Wolfram Mathematica / Mathics Notebooks based on Metakernel. The idea is to have a common kernel for both versions of the language with a compatible notebook form.
 
